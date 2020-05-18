@@ -1,0 +1,46 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://gale.udemy.com/course/ultimate-photoshop-training-from-beginner-to-pro/learn/lecture/6227096#overview"
+#   2) curl --cookie cookies.txt "https://gale.udemy.com/course/ultimate-photoshop-training-from-beginner-to-pro/learn/lecture/6227096#overview"
+#   3) aria2c --load-cookies cookies.txt "https://gale.udemy.com/course/ultimate-photoshop-training-from-beginner-to-pro/learn/lecture/6227096#overview"
+#
+.udemy.com	TRUE	/	FALSE	1592418092	__cfduid	ded89bc6c7ef980694ccb1ed828fe754b1589826091
+gale.udemy.com	FALSE	/	FALSE	1589913300	ud_cache_release	90f4934aee0fdb24beb3
+gale.udemy.com	FALSE	/	FALSE	1589913300	ud_cache_version	1
+gale.udemy.com	FALSE	/	FALSE	1589913300	ud_cache_modern_browser	1
+gale.udemy.com	FALSE	/	FALSE	1589913300	ud_cache_language	en
+gale.udemy.com	FALSE	/	FALSE	1621362093	ud_firstvisit	2020-05-18T18:21:32.109494+00:00:1jakOK:wQMqgYc8k_qW6xa2PpV6fkswguQ
+.udemy.com	TRUE	/	TRUE	1621362900	__udmy_2_v57r	5909c027bef546fdbf974d5b933eaae1
+gale.udemy.com	FALSE	/	TRUE	1621276343	csrftoken	Kw6GhLwMAn2fbcbiqm4bpHbTCsz1O5YiFFB2x4DF2n0Ecap6A7lLi55I86uwUT3p
+gale.udemy.com	FALSE	/	FALSE	1589828700	seen	1
+.udemy.com	TRUE	/	TRUE	0	__cfruid	8833aac338b841dec5a429a256a7a2ee9239cf83-1589826739
+gale.udemy.com	FALSE	/	FALSE	1589913300	ud_cache_price_country	SG
+gale.udemy.com	FALSE	/	TRUE	1592418743	client_id	bd2565cb7b0c313f5e9bae44961e8db2
+gale.udemy.com	FALSE	/	FALSE	1589913300	ud_cache_brand	68490LKen_US
+gale.udemy.com	FALSE	/	FALSE	1589913300	ud_cache_user	118849090
+gale.udemy.com	FALSE	/	FALSE	1621362743	ud_credit_last_seen	None
+gale.udemy.com	FALSE	/	TRUE	1592418807	dj_session_id	vqsuposk397nbyci7cg2ekps0oo0p16z
+gale.udemy.com	FALSE	/	TRUE	1592418743	access_token	A6CJbFmUA9jOydVdlZzPcE1EbPl7Y1d5hbqlJQnK
+gale.udemy.com	FALSE	/	FALSE	1589913300	ud_cache_marketplace_country	LK
+gale.udemy.com	FALSE	/	FALSE	1589833943	ud_credit_unseen	0
+gale.udemy.com	FALSE	/	FALSE	1589913300	ud_cache_logged_in	1
+gale.udemy.com	FALSE	/	FALSE	1591641150	EUCookieMessageState	initial
+gale.udemy.com	FALSE	/	FALSE	1905186750	EUCookieMessageShown	true
+.udemy.com	TRUE	/	FALSE	1652898889	_ga	GA1.2.1088109548.1589826750
+.udemy.com	TRUE	/	FALSE	1589913289	_gid	GA1.2.844337302.1589826750
+gale.udemy.com	FALSE	/	FALSE	1636482751	_pxvid	ef2eed40-9935-11ea-b4bc-0242ac120002
+.gale.udemy.com	TRUE	/	FALSE	1652898897	_ga	GA1.3.1088109548.1589826750
+.gale.udemy.com	TRUE	/	FALSE	1589913297	_gid	GA1.3.844337302.1589826750
+.udemy.com	TRUE	/	FALSE	1621362900	ufb_acc	&quot;E0UTdVdSVw==&quot;
+www.udemy.com	FALSE	/	FALSE	1589828685	seen	1
+gale.udemy.com	FALSE	/	FALSE	1589913300	ud_cache_campaign_code	&quot;&quot;
+gale.udemy.com	FALSE	/	FALSE	2220546889	muxData	mux_viewer_id=93537b2a-0d6c-4a72-84d0-6115ea5cdcdd&amp;msn=0.34288124472638737&amp;sid=23ecef10-ff91-4fec-a32b-5f234c97f92e&amp;sst=1589826889348&amp;sex=1589828389387
+gale.udemy.com	FALSE	/	FALSE	1592418900	evi	SlFYNkxYDm4DRRJxTFgObkdREXlCQAMtE0kddlZSCDEdUUk0AgsdPBNJUGNcVE14E0lQYxhAT30dUV0gTFhDewdFVjxCQBYgQVEROkxQQ30IURE6TBRXdgBfCTcPQE96B0IYPBMf
+gale.udemy.com	FALSE	/	TRUE	1592418900	ud_user_jwt	eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6ImxraW5mb2FwcEBnbWFpbC5jb20iLCJpZCI6MTE4ODQ5MDkwfQ.3M62J5DwDsmdsCH8fgr1I0gRycYIivUNjhuFWuP7OvM
+.udemy.com	TRUE	/	FALSE	1590431697	intercom-session-sehj53dd	Z1dyaHZ4UDJiRVg4Q0pCWDhjL0dqOFJaa0p5ZGUvVXQ2QjE5clltb2tncGIvS1J1MDNxQVRUdmJzSHNOdzk5NS0tbU0zT0tjc2VIUEFJeGpaOENmekluZz09--d14260badc96db675119b9ff2b0acdba862d5255
+gale.udemy.com	FALSE	/	FALSE	1652898900	ud_rule_vars	&quot;eJyFj0uKwzAQRK9itM2HltpKLJ1FINpyKxH5iMhyNiZ3H0GyGJiBrGpRvFfUKiqVE1ee_DPNqeZitQETQB1Hjro_xGmM5thPejSITMTShpwviYXtxOrElebqQ17KzG-Dr-nGrrVOKFCwA72TQycHi71Fs0cwKPUGwAI4se0-hsKPhVtOVP-FlbSo9lJqVMNvOKbSqPfwFxZQGvNnuOYlnH0tFGMKfm5HQjtCJdF4_dhyOdE9BSde4vUDRJpahw==:1jakbK:-9jETP3B8jnkgwMmaF1-Wz5olwY&quot;
+gale.udemy.com	FALSE	/	FALSE	1589913300	ud_cache_device	desktop
+gale.udemy.com	FALSE	/	FALSE	1590000493	_px3	ec7559d0fd97bb2418a2540168c93104e0c471320fbe829f7cf4bb4d408faec5:BOhxblRPYYLsMQGfhNIUXBfigfrCwrvxnOP4ems/sU2nG2WNLYKkvMSgzoPQalcQ4IGrciIMdGfEe6LXyI/DUQ==:1000:aSlKJo1mJbF9oTuxJ7zQdiNloG6E8IqluXh5EzFuZbk4NTz/SP+aPZAwvtSMITzl0kvq2AQmAJDdBbK3w2WrD5Fd63BylA4P46e8WscZRUqnyCp/jclHDKnUNj+WaPD3ku+yyO9mJpSkAfOhssxqf/8ZaNSAzoJTy59+zsHLbhk=
+gale.udemy.com	FALSE	/	FALSE	1590000493	_px2	eyJ1IjoiNDE1NWZlZTAtOTkzNi0xMWVhLTg4ZjItNjM1MTc0YWFmYTZmIiwidiI6ImVmMmVlZDQwLTk5MzUtMTFlYS1iNGJjLTAyNDJhYzEyMDAwMiIsInQiOjE1ODk4MjgxOTI4MzMsImgiOiIxMWRmYzc2MWVkYTQyMTQ4NmExZTFjYzQ5ZDY3OGExYmNkOGExNmY4ZjI2MTViMjRlMWMzNjM1OGJhMWY3YzI2In0=
+.udemy.com	TRUE	/	TRUE	1589829557	eventing_session_id	SC8TX_gKSVixA_xFWbHzXg-1589829557259
